@@ -1,0 +1,23 @@
+{
+  "name": "team-groww",
+  "version": "1.0.0",
+  "description": "Investment application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjeetkumaritoutlook/GROWW-cloned.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjeetkumaritoutlook/GROWW-cloned/issues"
+  },
+  "homepage": "https://github.com/sanjeetkumaritoutlook/GROWW-cloned#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
