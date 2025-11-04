@@ -22,10 +22,13 @@
     <p>If you want to run my project in your local machine</p>
     <p>Follow the given steps:</p>
     <ul>
-        <li>Clone our respository <a href="https://github.com/sanjeetkumaritoutlook/GROWW-cloned.git">https://github.com/sanjeetkumaritoutlook/GROWW-cloned.git</a></li>
-        <li>Open our code in VS code</li>
+        <li>Clone my respository <a href="https://github.com/sanjeetkumaritoutlook/GROWW-cloned.git">https://github.com/sanjeetkumaritoutlook/GROWW-cloned.git</a></li>
+        <li>Open my  code in VS code</li>
         <li>Open 'index.html' with Live server</li>
+        <li>frontend starrts on 5501 port</li>
+        <li>backend is json server below:</li>
         <li>Initialize the server by writing 'npm run start' on Terminal</li>
+        <li> backend json sever starts on 3000 port</li>
         <li>Than you can navigate to other pages like 'mutualfunds.html' etc</li>
     </ul>
         <h1>Built with</h1>
